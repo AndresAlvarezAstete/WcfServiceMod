@@ -1,0 +1,14 @@
+C:\Users\zarko\source\repos\WcfServiceMod\WcfServiceMod\bin\WcfServiceMod.dll.config
+C:\Users\zarko\source\repos\WcfServiceMod\WcfServiceMod\bin\WcfServiceMod.dll
+C:\Users\zarko\source\repos\WcfServiceMod\WcfServiceMod\bin\WcfServiceMod.pdb
+C:\Users\zarko\source\repos\WcfServiceMod\WcfServiceMod\obj\Debug\WcfServiceMod.csprojAssemblyReference.cache
+C:\Users\zarko\source\repos\WcfServiceMod\WcfServiceMod\obj\Debug\WcfServiceMod.csproj.CoreCompileInputs.cache
+C:\Users\zarko\source\repos\WcfServiceMod\WcfServiceMod\obj\Debug\WcfServiceMod.dll
+C:\Users\zarko\source\repos\WcfServiceMod\WcfServiceMod\obj\Debug\WcfServiceMod.pdb
+C:\Users\balia\source\repos\WcfServiceMod\WcfServiceMod\bin\WcfServiceMod.dll.config
+C:\Users\balia\source\repos\WcfServiceMod\WcfServiceMod\bin\WcfServiceMod.dll
+C:\Users\balia\source\repos\WcfServiceMod\WcfServiceMod\bin\WcfServiceMod.pdb
+C:\Users\balia\source\repos\WcfServiceMod\WcfServiceMod\obj\Debug\WcfServiceMod.csprojAssemblyReference.cache
+C:\Users\balia\source\repos\WcfServiceMod\WcfServiceMod\obj\Debug\WcfServiceMod.csproj.CoreCompileInputs.cache
+C:\Users\balia\source\repos\WcfServiceMod\WcfServiceMod\obj\Debug\WcfServiceMod.dll
+C:\Users\balia\source\repos\WcfServiceMod\WcfServiceMod\obj\Debug\WcfServiceMod.pdb
